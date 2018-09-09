@@ -8,5 +8,10 @@
         "name": "Dharma Debt Token",
         "symbol": "DDT",
         "address": "0xf7b3fc555c458c46d288ffd049ddbfb09f706df7"
+    },
+    {
+        "name": "Pully",
+        "symbol": "PUL",
+        "address":"0x50c89902ab8693b87fbd910fe71ef4b9082ca4ae"
     }
 ]
